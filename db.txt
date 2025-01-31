@@ -1,0 +1,30 @@
+
+
+DATA BASE
+
+TABLE 'skills'
+
+name,
+created_by,
+updated_by
+
+TABLE 'job_skills'
+
+job_id,
+skill_id,
+created_by,
+updated_by
+
+TABLE 'job'
+
+title,
+description,
+experience,
+salary,
+location,
+extra_info
+company_name,
+logo,
+created_by,
+updated_by
+
